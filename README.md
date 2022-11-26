@@ -2,10 +2,9 @@
 I'm Filippo Cipriani, Mathematical Engineering student at Politecnico di Milano. My studies are focused on Machine Learning, Data Science and Multivariate/Functional Statistics. 
 
 - 🎓 Bachelor/MSc Mathematical Engineering - Statistical Learning @PoliMi, Erasmus @TUMunich
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 📚 Alta Scuola Politecnica (Politecnico di Milano and Politecnico di Torino joint Honour Program)
 - 📫 Contact me: 
-  Email - <a href="mailto:filippo.cipriani99@hotmail.it">filippo.cipriani99@hotmail.it</a> | Linkedin - <a href="https://www.linkedin.com/in/filippo-cipriani/">https://www.linkedin.com/in/filippo-cipriani/</a>                                                                      
+  Email - <a href="mailto:filippo.cipriani99@hotmail.it">filippo.cipriani99@hotmail.it</a> | [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/filippo-cipriani/)                                                                   
 
 #### Skills
 <ul>
@@ -22,3 +21,11 @@ I'm Filippo Cipriani, Mathematical Engineering student at Politecnico di Milano.
 </ul>
 
 #### About me
+- 🎸: Jazz Guitar player, 10+ years experience
+- 👨🏻‍💻: MATLAB Ambassador @PoliMi
+- 🥘: I love cooking
+
+And...
+- 🎮 One Videogame - _Outer Wilds_, Mobius Digital
+- 🎶 One song - _Octavarium_, Dream Theater
+
